@@ -1,4 +1,10 @@
-# This is a publications page
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+#This is a publications page
 
 this is where I will put all my publications 
 
